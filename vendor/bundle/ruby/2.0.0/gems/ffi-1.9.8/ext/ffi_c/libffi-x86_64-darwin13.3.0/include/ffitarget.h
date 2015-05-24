@@ -1,0 +1,1 @@
+/Users/cacao/Desktop/rails_projects/sample_app/vendor/bundle/ruby/2.0.0/gems/ffi-1.9.8/ext/ffi_c/libffi/src/x86/ffitarget.h
